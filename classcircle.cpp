@@ -1,3 +1,5 @@
+//Cant work out what I was doing here just palying with different code and its a real jumble with no sense to be made
+
 #include <iostream>
 #include <cmath>
 using namespace std;
